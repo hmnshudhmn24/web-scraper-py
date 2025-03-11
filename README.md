@@ -26,6 +26,3 @@ python web_scraper.py
 ## Notes
 - Modify the `soup.find_all('h2')` selector based on the website's HTML structure.
 - Ensure you comply with a website’s `robots.txt` policy before scraping.
-
-## License
-This project is open-source and free for educational and personal use.
